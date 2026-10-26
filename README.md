@@ -159,6 +159,4 @@ A reading list of the books referenced across the essays — the ones that left 
 
 ## Licence
 
-© 2026 Shaz Moghaddam. All rights reserved.
-
-These essays are published for personal, non-commercial reading only. You may share a link to the original Medium posts, but you may not reproduce, adapt, or republish the text — in whole or in part — without written permission from the author.
+Released under the [MIT licence](./LICENSE). Free to use, change and share, including commercially, as long as the licence and copyright notice stay with it.
